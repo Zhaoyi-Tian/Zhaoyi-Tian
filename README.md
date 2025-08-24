@@ -32,3 +32,4 @@
 #  🙋 Hello
 我是田照亿，现为北京大学信息科学技术学院智能科学与技术专业一年级本科生。 我的研究愿景是创造能够像人类一样工作、思考的通用智能体，并正努力寻找感兴趣的方向。
 </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Zhaoyi-Tian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
