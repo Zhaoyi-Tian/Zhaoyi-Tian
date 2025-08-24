@@ -22,9 +22,9 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/profile-snake-contrib/github-contribution-grid-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/profile-snake-contrib/github-contribution-grid-snake.svg?v=1" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/profile-snake-contrib/github-contribution-grid-snake-dark.svg?v=1" />
   </picture>
 
 </div>
