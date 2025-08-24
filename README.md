@@ -4,12 +4,8 @@
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);照二祝你今天愉快！!&center=true&size=27)](https://git.io/typing-svg)
 
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+  <div align="center"> <img src="https://metrics.lecoq.io/Zhaoyi-Tian?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
@@ -32,4 +28,4 @@
 #  🙋 Hello
 我是田照亿，现为北京大学信息科学技术学院智能科学与技术专业一年级本科生。 我的研究愿景是创造能够像人类一样工作、思考的通用智能体，并正努力寻找感兴趣的方向。
 </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Zhaoyi-Tian&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
