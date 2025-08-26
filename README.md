@@ -21,9 +21,3 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/profile-snake-contrib/github-contribution-grid-snake.svg?v=1" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/profile-snake-contrib/github-contribution-grid-snake-dark.svg?v=1" />
   </picture>
-
-</div>
-
-#  🙋 Hello
-我是田照亿，现为北京大学信息科学技术学院智能科学与技术专业一年级本科生。 我的研究愿景是创造能够像人类一样工作、思考的通用智能体，并正努力寻找感兴趣的方向。
-</div>
