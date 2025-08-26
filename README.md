@@ -4,8 +4,7 @@
   
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);照二祝你今天愉快！!&center=true&size=27)](https://git.io/typing-svg)
 
-  <div align="center"> <img src="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/github-metrics/base.svg"> </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+  <div align="center"> <img src="https://cdn.jsdelivr.net/gh/Zhaoyi-Tian/Zhaoyi-Tian/github-metrics/base.svg?v=3"> </div>
 
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
