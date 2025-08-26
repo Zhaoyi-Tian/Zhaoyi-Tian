@@ -20,9 +20,9 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: sun0225SUN
+          user: Zhaoyi-Tian
           template: classic
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Beijing
           base: "header, activity, community, repositories"
           # 此插件为文档中的 🧮 Repositories traffic
           plugin_traffic: yes
